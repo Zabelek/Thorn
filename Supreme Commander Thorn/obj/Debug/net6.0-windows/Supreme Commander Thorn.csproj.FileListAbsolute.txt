@@ -1,0 +1,82 @@
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Supreme Commander Thorn.exe
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Supreme Commander Thorn.deps.json
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Supreme Commander Thorn.runtimeconfig.json
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Supreme Commander Thorn.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Supreme Commander Thorn.pdb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.csproj.AssemblyReference.cache
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.AssemblyInfoInputs.cache
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.AssemblyInfo.cs
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.csproj.CoreCompileInputs.cache
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.csproj.CopyComplete
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\refint\Supreme Commander Thorn.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.pdb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\Supreme Commander Thorn.genruntimeconfig.cache
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\obj\Debug\net6.0-windows\ref\Supreme Commander Thorn.dll
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\cursor clicked.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\cursor.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Button_Center.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Button_Left.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Button_Right.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Additional_Functions_Backgrwound.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Dialogue_Name_Background.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Main_Interface_Background.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Exit_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Hide_Additional_Menu_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Save_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Show_Hide_Interface_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Popup_Window.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Popup_Window_Shadow.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\standby.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Air_Icon.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Radiation_Icon.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Temparature_Icon.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Go_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Effects\Snow_Storm.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Effects\Snow_Storm_n.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\image.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Update_World_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\UsableWindow\Usable_Description_Box_Boton.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\UsableWindow\Usable_Description_Box_Middle.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\UsableWindow\Usable_Description_Box_Top.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\defaultInterfaceFont.xnb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\fonts\Bigger_Interface_Font.xnb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\fonts\Default_Interface_Font.xnb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\fonts\Smaller_Interface_Font.xnb
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Description_Section_Background.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Inventory_Arrow_Down.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Inventory_Arrow_Up.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Inventory_Background.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Item_Slot.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\Small_Energy_Storage.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Inventory\Item_Placeholder.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook_Button.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\Zacks_Notebook.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook\Notebook_Background.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook\Text_Input_Cursor.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook\Interface_Element_To_Stretch.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook\arrow_left.png
+E:\Supreme Commander Thorn\Supreme Commander Thorn\Supreme Commander Thorn\bin\Debug\net6.0-windows\Content\graphics\Interface\Notebook\arrow_right.png

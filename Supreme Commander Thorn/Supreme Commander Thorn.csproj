@@ -1,0 +1,218 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RollForward>Major</RollForward>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <TieredCompilation>false</TieredCompilation>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <PackageOutputPath></PackageOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Content\fonts\Bigger_Interface_Font.xnb" />
+    <None Remove="Content\fonts\Default_Interface_Font.xnb" />
+    <None Remove="Content\fonts\Smaller_Interface_Font.xnb" />
+    <None Remove="Content\graphics\Effects\Snow_Storm.png" />
+    <None Remove="Content\graphics\Effects\Snow_Storm_n.png" />
+    <None Remove="Content\graphics\image.png" />
+    <None Remove="Content\graphics\Interface\Additional_Functions_Backgrwound.png" />
+    <None Remove="Content\graphics\Interface\Air_Icon.png" />
+    <None Remove="Content\graphics\Interface\Button_Center.png" />
+    <None Remove="Content\graphics\Interface\Button_Left.png" />
+    <None Remove="Content\graphics\Interface\Button_Right.png" />
+    <None Remove="Content\graphics\Interface\Dialogue_Name_Background.png" />
+    <None Remove="Content\graphics\Interface\Exit_Button.png" />
+    <None Remove="Content\graphics\Interface\Go_Button.png" />
+    <None Remove="Content\graphics\Interface\Hide_Additional_Menu_Button.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Description_Section_Background.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Inventory_Arrow_Down.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Inventory_Arrow_Up.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Inventory_Background.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Item_Placeholder.png" />
+    <None Remove="Content\graphics\Interface\Inventory\Item_Slot.png" />
+    <None Remove="Content\graphics\Interface\Inventory_Button.png" />
+    <None Remove="Content\graphics\Interface\Main_Interface_Background.png" />
+    <None Remove="Content\graphics\Interface\Notebook\arrow_left.png" />
+    <None Remove="Content\graphics\Interface\Notebook\arrow_right.png" />
+    <None Remove="Content\graphics\Interface\Notebook\Interface_Element_To_Stretch.png" />
+    <None Remove="Content\graphics\Interface\Notebook\Notebook_Background.png" />
+    <None Remove="Content\graphics\Interface\Notebook\Text_Input_Cursor.png" />
+    <None Remove="Content\graphics\Interface\Notebook_Button.png" />
+    <None Remove="Content\graphics\Interface\Popup_Window.png" />
+    <None Remove="Content\graphics\Interface\Popup_Window_Shadow.png" />
+    <None Remove="Content\graphics\Interface\Radiation_Icon.png" />
+    <None Remove="Content\graphics\Interface\Save_Button.png" />
+    <None Remove="Content\graphics\Interface\Show_Hide_Interface_Button.png" />
+    <None Remove="Content\graphics\Interface\Temparature_Icon.png" />
+    <None Remove="Content\graphics\Interface\Update_World_Button.png" />
+    <None Remove="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Boton.png" />
+    <None Remove="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Middle.png" />
+    <None Remove="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Top.png" />
+    <None Remove="Content\graphics\standby.png" />
+    <None Remove="Content\Small_Energy_Storage.png" />
+    <None Remove="Content\Zacks_Notebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\fonts\Bigger_Interface_Font.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\fonts\Smaller_Interface_Font.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\fonts\Default_Interface_Font.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Effects\Snow_Storm.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Effects\Snow_Storm_n.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\image.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Additional_Functions_Backgrwound.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Air_Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Button_Center.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Button_Left.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Button_Right.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Dialogue_Name_Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Exit_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Go_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Hide_Additional_Menu_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Description_Section_Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Inventory_Arrow_Down.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Inventory_Arrow_Up.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Inventory_Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Item_Placeholder.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory\Item_Slot.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Inventory_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Main_Interface_Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook\arrow_left.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook\arrow_right.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook\Interface_Element_To_Stretch.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook\Notebook_Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook\Text_Input_Cursor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Notebook_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Popup_Window.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Popup_Window_Shadow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Radiation_Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Save_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Show_Hide_Interface_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Temparature_Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\Update_World_Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Boton.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Middle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\Interface\UsableWindow\Usable_Description_Box_Top.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\graphics\standby.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Small_Energy_Storage.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Zacks_Notebook.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.WindowsDX" Version="3.8.1.303" />
+    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\audio\" />
+    <Folder Include="Content\graphics\World\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Content\graphics\Interface\cursor clicked.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Content\graphics\Interface\cursor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
+    <Message Text="Restoring dotnet tools" Importance="High" />
+    <Exec Command="dotnet tool restore" />
+  </Target>
+</Project>
